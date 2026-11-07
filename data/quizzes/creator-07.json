@@ -1,0 +1,13 @@
+{
+  "quizId": "creator-07",
+  "creatorId": "creator-07",
+  "title": "Quiz for Creator 07",
+  "description": "Quiz content will be added here.",
+  "durationMinutes": 20,
+  "totalQuestions": 0,
+  "totalMarks": 0,
+  "isPublished": false,
+  "answerKeyFile": "data/answer-keys/creator-07.json",
+  "instructions": [],
+  "questions": []
+}

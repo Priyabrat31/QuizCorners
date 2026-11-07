@@ -1,0 +1,40 @@
+{
+  "quizId": "creator-01",
+  "creatorId": "creator-01",
+  "title": "Cell – The Fundamental Unit of Life",
+  "description": "A 20-question multiple-choice quiz on the cell and its organelles.",
+  "durationMinutes": 20,
+  "totalQuestions": 20,
+  "totalMarks": 20,
+  "isPublished": true,
+  "answerKeyFile": "data/answer-keys/creator-01.json",
+  "instructions": [
+    "This quiz contains 20 multiple-choice questions.",
+    "Each question carries 1 mark.",
+    "There is no negative marking.",
+    "The timer starts when you begin the quiz.",
+    "Your result will be calculated automatically after submission."
+  ],
+  "questions": [
+    {"id":"q1","text":"Who first observed and named the tiny compartments in a slice of cork as cells?","marks":1,"options":{"A":"Robert Hooke","B":"Robert Brown","C":"Anton van Leeuwenhoek","D":"Rudolf Virchow"}},
+    {"id":"q2","text":"Which cell organelle is known as the powerhouse of the cell because it releases energy?","marks":1,"options":{"A":"Nucleus","B":"Ribosome","C":"Mitochondria","D":"Golgi apparatus"}},
+    {"id":"q3","text":"Which organelle controls most activities of a eukaryotic cell?","marks":1,"options":{"A":"Vacuole","B":"Nucleus","C":"Lysosome","D":"Cell wall"}},
+    {"id":"q4","text":"Which organelle contains chlorophyll and is the main site of photosynthesis in green plants?","marks":1,"options":{"A":"Mitochondrion","B":"Chloroplast","C":"Ribosome","D":"Golgi apparatus"}},
+    {"id":"q5","text":"Which structure forms the selectively permeable boundary around the cell?","marks":1,"options":{"A":"Cell wall","B":"Plasma membrane","C":"Nuclear membrane","D":"Cytoplasm"}},
+    {"id":"q6","text":"Which organelle contains digestive enzymes that break down worn-out cell parts?","marks":1,"options":{"A":"Lysosome","B":"Chloroplast","C":"Ribosome","D":"Vacuole"}},
+    {"id":"q7","text":"Which rigid outer covering gives support and protection to plant cells?","marks":1,"options":{"A":"Plasma membrane","B":"Cytoplasm","C":"Cell wall","D":"Nuclear membrane"}},
+    {"id":"q8","text":"Which cell structure is chiefly responsible for protein synthesis?","marks":1,"options":{"A":"Ribosome","B":"Lysosome","C":"Vacuole","D":"Mitochondrion"}},
+    {"id":"q9","text":"What is the jelly-like material inside a cell in which organelles are suspended?","marks":1,"options":{"A":"Cell wall","B":"Cytoplasm","C":"Nucleolus","D":"Chromosome"}},
+    {"id":"q10","text":"Which unicellular organism can change its shape with the help of pseudopodia?","marks":1,"options":{"A":"Yeast","B":"Bacteria","C":"Amoeba","D":"Paramecium"}},
+    {"id":"q11","text":"Which organelle modifies, sorts and packages materials for transport inside or outside the cell?","marks":1,"options":{"A":"Golgi apparatus","B":"Ribosome","C":"Nucleus","D":"Chloroplast"}},
+    {"id":"q12","text":"Which organelle is often called the suicide bag of the cell?","marks":1,"options":{"A":"Mitochondrion","B":"Lysosome","C":"Golgi apparatus","D":"Ribosome"}},
+    {"id":"q13","text":"What is the basic structural and functional unit of life?","marks":1,"options":{"A":"Organ","B":"Tissue","C":"Cell","D":"Organ system"}},
+    {"id":"q14","text":"Which cell component regulates the movement of substances into and out of the cell?","marks":1,"options":{"A":"Cell wall","B":"Plasma membrane","C":"Cytoplasm","D":"Nucleolus"}},
+    {"id":"q15","text":"Which type of cell division is responsible for growth and repair in many multicellular organisms?","marks":1,"options":{"A":"Meiosis","B":"Mitosis","C":"Fertilisation","D":"Budding"}},
+    {"id":"q16","text":"Which molecule carries hereditary information in most living organisms?","marks":1,"options":{"A":"DNA","B":"Starch","C":"Glucose","D":"Cellulose"}},
+    {"id":"q17","text":"Which cell organelle commonly stores water, nutrients and waste materials?","marks":1,"options":{"A":"Ribosome","B":"Vacuole","C":"Centrosome","D":"Lysosome"}},
+    {"id":"q18","text":"Which of the following is a prokaryotic organism that lacks a membrane-bound nucleus?","marks":1,"options":{"A":"Amoeba","B":"Bacteria","C":"Mushroom","D":"Human cell"}},
+    {"id":"q19","text":"What does chlorophyll mainly help a plant do during photosynthesis?","marks":1,"options":{"A":"Absorb oxygen","B":"Absorption of sunlight","C":"Release nitrogen","D":"Store proteins"}},
+    {"id":"q20","text":"Which scientists are credited with proposing the cell theory?","marks":1,"options":{"A":"Schleiden and Schwann","B":"Watson and Crick","C":"Darwin and Wallace","D":"Hooke and Pasteur"}}
+  ]
+}
