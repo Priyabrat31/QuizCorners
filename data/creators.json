@@ -1,0 +1,74 @@
+{
+  "creators": [
+    {
+      "id": "creator-01",
+      "name": "Priyabrat Mohanty",
+      "subject": "Biological Science",
+      "topic": "Cell – The Fundamental Unit of Life",
+      "introduction": "Explore Biological Science quizzes prepared by Priyabrat Mohanty.",
+      "quizFile": "data/quizzes/creator-01.json",
+      "quizEnabled": true,
+      "image": "assets/images/creators/creator-01.jpg"
+    },
+    {
+      "id": "creator-02",
+      "name": "Priyadarshan Patra",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "introduction": "Creator profile. Quiz content can be added when it is ready.",
+      "quizFile": "data/quizzes/creator-02.json",
+      "quizEnabled": false,
+      "image": "assets/images/creators/creator-02.jpg"
+    },
+    {
+      "id": "creator-03",
+      "name": "Umesh Kumar Behera",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "introduction": "Creator profile. Quiz content can be added when it is ready.",
+      "quizFile": "data/quizzes/creator-03.json",
+      "quizEnabled": false,
+      "image": "assets/images/creators/creator-03.jpg"
+    },
+    {
+      "id": "creator-04",
+      "name": "Darshan Kumar Nayak",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "introduction": "Creator profile. Quiz content can be added when it is ready.",
+      "quizFile": "data/quizzes/creator-04.json",
+      "quizEnabled": false,
+      "image": "assets/images/creators/creator-04.jpg"
+    },
+    {
+      "id": "creator-05",
+      "name": "Subhashree Subhalaxmi",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "introduction": "Creator profile. Quiz content can be added when it is ready.",
+      "quizFile": "data/quizzes/creator-05.json",
+      "quizEnabled": false,
+      "image": "assets/images/creators/creator-05.jpg"
+    },
+    {
+      "id": "creator-06",
+      "name": "Sonali Dalei",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "introduction": "Creator profile. Quiz content can be added when it is ready.",
+      "quizFile": "data/quizzes/creator-06.json",
+      "quizEnabled": false,
+      "image": "assets/images/creators/creator-06.jpg"
+    },
+    {
+      "id": "creator-07",
+      "name": "Creator 07",
+      "subject": "Subject to be added",
+      "topic": "Quiz topic to be added",
+      "introduction": "Creator profile. Quiz content can be added when it is ready.",
+      "quizFile": "data/quizzes/creator-07.json",
+      "quizEnabled": false,
+      "image": "assets/images/creators/creator-07.jpg"
+    }
+  ]
+}
