@@ -76,7 +76,7 @@ function renderShell() {
     footer.innerHTML = `
       <footer class="site-footer"><div class="page-wrap footer-inner">
         <a class="brand footer-brand" href="index.html"><span class="brand-mark">Q</span><span>QuizCorner</span></a>
-        <p>Practice with purpose. Learn with every attempt.</p>
+        <p>Designed and developed by Priyabrat Mohanty.</p>
         <span class="footer-small">© ${new Date().getFullYear()} QuizCorner</span>
       </div></footer>`;
   }
