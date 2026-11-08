@@ -1,13 +1,260 @@
 {
   "quizId": "creator-05",
   "creatorId": "creator-05",
-  "title": "Quiz for Creator 05",
-  "description": "Quiz content will be added here.",
+  "title": "Class 8 Mathematics: Number Systems",
+  "description": "A 20-question practice quiz on rational and irrational numbers, operations, decimals, exponents and comparing rational numbers, prepared for Subhashree Subhalaxmi.",
   "durationMinutes": 20,
-  "totalQuestions": 0,
-  "totalMarks": 0,
-  "isPublished": false,
+  "totalQuestions": 20,
+  "totalMarks": 20,
+  "isPublished": true,
   "answerKeyFile": "data/answer-keys/creator-05.json",
-  "instructions": [],
-  "questions": []
+  "instructions": [
+    "This quiz contains 20 multiple-choice questions.",
+    "Each question carries 1 mark.",
+    "There is no negative marking.",
+    "The timer is set to 20 minutes and starts when you begin the quiz.",
+    "Your result will be calculated automatically after submission."
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "category": "Number Systems",
+      "text": "Which of the following is an irrational number?",
+      "marks": 1,
+      "options": {
+        "A": "0.25",
+        "B": "√7",
+        "C": "−5",
+        "D": "0.333..."
+      }
+    },
+    {
+      "id": "q2",
+      "category": "Number Systems",
+      "text": "Which fraction is equal to the terminating decimal 0.125?",
+      "marks": 1,
+      "options": {
+        "A": "1/4",
+        "B": "1/8",
+        "C": "1/5",
+        "D": "1/10"
+      }
+    },
+    {
+      "id": "q3",
+      "category": "Number Systems",
+      "text": "What is the square root of 81?",
+      "marks": 1,
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      }
+    },
+    {
+      "id": "q4",
+      "category": "Number Systems",
+      "text": "What is the multiplicative inverse of −3/5?",
+      "marks": 1,
+      "options": {
+        "A": "3/5",
+        "B": "−3/5",
+        "C": "5/3",
+        "D": "−5/3"
+      }
+    },
+    {
+      "id": "q5",
+      "category": "Number Systems",
+      "text": "What is the additive inverse of 7/9?",
+      "marks": 1,
+      "options": {
+        "A": "7/9",
+        "B": "−7/9",
+        "C": "9/7",
+        "D": "−9/7"
+      }
+    },
+    {
+      "id": "q6",
+      "category": "Operations on Rational Numbers",
+      "text": "Find 3/4 + 1/8.",
+      "marks": 1,
+      "options": {
+        "A": "5/8",
+        "B": "6/8",
+        "C": "7/8",
+        "D": "1"
+      }
+    },
+    {
+      "id": "q7",
+      "category": "Operations on Rational Numbers",
+      "text": "Find 5/6 − 1/3.",
+      "marks": 1,
+      "options": {
+        "A": "1/2",
+        "B": "1/3",
+        "C": "2/3",
+        "D": "1/6"
+      }
+    },
+    {
+      "id": "q8",
+      "category": "Rational Numbers",
+      "text": "Which repeating decimal is equal to 3/11?",
+      "marks": 1,
+      "options": {
+        "A": "0.232323...",
+        "B": "0.272727...",
+        "C": "0.303030...",
+        "D": "0.333..."
+      }
+    },
+    {
+      "id": "q9",
+      "category": "Exponents",
+      "text": "What is the value of 2³ × 2²?",
+      "marks": 1,
+      "options": {
+        "A": "16",
+        "B": "24",
+        "C": "32",
+        "D": "64"
+      }
+    },
+    {
+      "id": "q10",
+      "category": "Rational and Irrational Numbers",
+      "text": "Which of the following is irrational?",
+      "marks": 1,
+      "options": {
+        "A": "4 + √2",
+        "B": "3/7",
+        "C": "0.6",
+        "D": "−12"
+      }
+    },
+    {
+      "id": "q11",
+      "category": "Properties of Rational Numbers",
+      "text": "What is the sign of the product of two negative rational numbers?",
+      "marks": 1,
+      "options": {
+        "A": "Negative",
+        "B": "Positive",
+        "C": "Zero",
+        "D": "Cannot be determined"
+      }
+    },
+    {
+      "id": "q12",
+      "category": "Comparing Rational Numbers",
+      "text": "Which list is arranged in ascending order?",
+      "marks": 1,
+      "options": {
+        "A": "−5/6, −2/3, 1/4, 3/5",
+        "B": "−2/3, −5/6, 1/4, 3/5",
+        "C": "1/4, −5/6, −2/3, 3/5",
+        "D": "−5/6, 1/4, −2/3, 3/5"
+      }
+    },
+    {
+      "id": "q13",
+      "category": "Decimal Representation",
+      "text": "What is 0.04 written as a fraction in simplest form?",
+      "marks": 1,
+      "options": {
+        "A": "1/4",
+        "B": "1/20",
+        "C": "1/25",
+        "D": "4/10"
+      }
+    },
+    {
+      "id": "q14",
+      "category": "Squares of Rational Numbers",
+      "text": "What is (−3/4)²?",
+      "marks": 1,
+      "options": {
+        "A": "−9/16",
+        "B": "9/16",
+        "C": "−3/8",
+        "D": "3/8"
+      }
+    },
+    {
+      "id": "q15",
+      "category": "Rational Numbers Between Two Numbers",
+      "text": "Which rational number lies between 2/5 and 1/2?",
+      "marks": 1,
+      "options": {
+        "A": "1/3",
+        "B": "9/20",
+        "C": "3/5",
+        "D": "2/3"
+      }
+    },
+    {
+      "id": "q16",
+      "category": "Operations on Rational Numbers",
+      "text": "Which expression has the value 1?",
+      "marks": 1,
+      "options": {
+        "A": "5/8 + 3/8",
+        "B": "2/5 + 1/5",
+        "C": "7/10 − 2/10",
+        "D": "3/4 × 1/4"
+      }
+    },
+    {
+      "id": "q17",
+      "category": "Division of Rational Numbers",
+      "text": "What is (−2/3) ÷ (4/9)?",
+      "marks": 1,
+      "options": {
+        "A": "−3/2",
+        "B": "3/2",
+        "C": "−8/27",
+        "D": "8/27"
+      }
+    },
+    {
+      "id": "q18",
+      "category": "Square Roots of Decimals",
+      "text": "What is the square root of 0.81?",
+      "marks": 1,
+      "options": {
+        "A": "0.09",
+        "B": "0.8",
+        "C": "0.9",
+        "D": "9"
+      }
+    },
+    {
+      "id": "q19",
+      "category": "Standard Form",
+      "text": "Which is the standard form of 0.00056?",
+      "marks": 1,
+      "options": {
+        "A": "5.6 × 10⁻⁴",
+        "B": "5.6 × 10⁻³",
+        "C": "56 × 10⁻⁴",
+        "D": "0.56 × 10⁻⁴"
+      }
+    },
+    {
+      "id": "q20",
+      "category": "Evaluating Expressions",
+      "text": "If x = −3/4, what is the value of 2x + 1?",
+      "marks": 1,
+      "options": {
+        "A": "−1/2",
+        "B": "1/2",
+        "C": "−5/2",
+        "D": "5/2"
+      }
+    }
+  ]
 }

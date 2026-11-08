@@ -1,13 +1,260 @@
 {
   "quizId": "creator-04",
   "creatorId": "creator-04",
-  "title": "Quiz for Creator 04",
-  "description": "Quiz content will be added here.",
-  "durationMinutes": 20,
-  "totalQuestions": 0,
-  "totalMarks": 0,
-  "isPublished": false,
+  "title": "Class 9 Mathematics Quiz",
+  "description": "A 20-question Class 9 Mathematics quiz based on the uploaded PDF, covering Number Systems, Polynomials, Coordinate Geometry, Linear Equations in Two Variables, Lines and Angles, Triangles and Quadrilaterals, Circles, Heron's Formula and Mensuration, and Statistics.",
+  "durationMinutes": 25,
+  "totalQuestions": 20,
+  "totalMarks": 20,
+  "isPublished": true,
   "answerKeyFile": "data/answer-keys/creator-04.json",
-  "instructions": [],
-  "questions": []
+  "instructions": [
+    "This quiz contains 20 multiple-choice questions.",
+    "Each question carries 1 mark.",
+    "There is no negative marking.",
+    "The timer is set to 25 minutes and starts when you begin the quiz.",
+    "Your result will be calculated automatically after submission."
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "category": "Number Systems",
+      "text": "Which of the following is an irrational number?",
+      "marks": 1,
+      "options": {
+        "A": "√4",
+        "B": "3.14",
+        "C": "√23",
+        "D": "22/7"
+      }
+    },
+    {
+      "id": "q2",
+      "category": "Number Systems",
+      "text": "If x = 2 + √3, what is the value of x + 1/x?",
+      "marks": 1,
+      "options": {
+        "A": "4",
+        "B": "2√3",
+        "C": "2",
+        "D": "4√3"
+      }
+    },
+    {
+      "id": "q3",
+      "category": "Polynomials",
+      "text": "What is the remainder when p(x) = x³ − 3x² + 4x − 2 is divided by (x − 1)?",
+      "marks": 1,
+      "options": {
+        "A": "2",
+        "B": "0",
+        "C": "−1",
+        "D": "4"
+      }
+    },
+    {
+      "id": "q4",
+      "category": "Polynomials",
+      "text": "If (x − 1) is a factor of 4x³ + 3x² − 4x + k, find the value of k.",
+      "marks": 1,
+      "options": {
+        "A": "3",
+        "B": "−3",
+        "C": "1",
+        "D": "−1"
+      }
+    },
+    {
+      "id": "q5",
+      "category": "Polynomials",
+      "text": "Factorize completely: 27y³ + 125z³.",
+      "marks": 1,
+      "options": {
+        "A": "(3y + 5z)(9y² − 15yz + 25z²)",
+        "B": "(3y + 5z)(9y² + 15yz + 25z²)",
+        "C": "(3y − 5z)(9y² + 15yz + 25z²)",
+        "D": "(3y + 5z)³"
+      }
+    },
+    {
+      "id": "q6",
+      "category": "Coordinate Geometry",
+      "text": "In which quadrant does the point (−3, 5) lie?",
+      "marks": 1,
+      "options": {
+        "A": "First Quadrant",
+        "B": "Second Quadrant",
+        "C": "Third Quadrant",
+        "D": "Fourth Quadrant"
+      }
+    },
+    {
+      "id": "q7",
+      "category": "Coordinate Geometry",
+      "text": "What is the perpendicular distance of the point (4, −3) from the y-axis?",
+      "marks": 1,
+      "options": {
+        "A": "3 units",
+        "B": "−3 units",
+        "C": "4 units",
+        "D": "5 units"
+      }
+    },
+    {
+      "id": "q8",
+      "category": "Linear Equations in Two Variables",
+      "text": "How many linear equations in x and y can pass through the point (2, 14)?",
+      "marks": 1,
+      "options": {
+        "A": "Only one",
+        "B": "Two",
+        "C": "Ten",
+        "D": "Infinitely many"
+      }
+    },
+    {
+      "id": "q9",
+      "category": "Linear Equations in Two Variables",
+      "text": "If the point (3, 4) lies on the graph of the equation 3y = ax + 7, find the value of a.",
+      "marks": 1,
+      "options": {
+        "A": "5/3",
+        "B": "3/5",
+        "C": "5",
+        "D": "12"
+      }
+    },
+    {
+      "id": "q10",
+      "category": "Lines and Angles",
+      "text": "If an angle is equal to its complement, find the measure of the angle.",
+      "marks": 1,
+      "options": {
+        "A": "90°",
+        "B": "45°",
+        "C": "30°",
+        "D": "60°"
+      }
+    },
+    {
+      "id": "q11",
+      "category": "Lines and Angles",
+      "text": "In triangle ABC, if angle A = 50° and angle B = 70°, what is the measure of angle C?",
+      "marks": 1,
+      "options": {
+        "A": "50°",
+        "B": "60°",
+        "C": "70°",
+        "D": "80°"
+      }
+    },
+    {
+      "id": "q12",
+      "category": "Triangles and Quadrilaterals",
+      "text": "Which of the following is NOT a criterion for congruence of triangles?",
+      "marks": 1,
+      "options": {
+        "A": "SAS",
+        "B": "ASA",
+        "C": "SSA",
+        "D": "SSS"
+      }
+    },
+    {
+      "id": "q13",
+      "category": "Triangles and Quadrilaterals",
+      "text": "If the diagonals of a quadrilateral bisect each other at right angles, then the quadrilateral is a:",
+      "marks": 1,
+      "options": {
+        "A": "Rectangle",
+        "B": "Trapezium",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      }
+    },
+    {
+      "id": "q14",
+      "category": "Circles",
+      "text": "In a circle, chords AB and CD are equidistant from the center. If AB = 6 cm, what is the length of CD?",
+      "marks": 1,
+      "options": {
+        "A": "3 cm",
+        "B": "6 cm",
+        "C": "12 cm",
+        "D": "9 cm"
+      }
+    },
+    {
+      "id": "q15",
+      "category": "Circles",
+      "text": "If the angles subtended by the chords of a circle at the center are equal, then the chords are:",
+      "marks": 1,
+      "options": {
+        "A": "Parallel",
+        "B": "Equal in length",
+        "C": "Perpendicular",
+        "D": "Unequal"
+      }
+    },
+    {
+      "id": "q16",
+      "category": "Heron's Formula and Mensuration",
+      "text": "The perimeter of an equilateral triangle is 60 cm. Using Heron's formula, what is its area?",
+      "marks": 1,
+      "options": {
+        "A": "100√3 cm²",
+        "B": "200√3 cm²",
+        "C": "400√3 cm²",
+        "D": "100 cm²"
+      }
+    },
+    {
+      "id": "q17",
+      "category": "Heron's Formula and Mensuration",
+      "text": "What is the total surface area of a solid hemisphere of radius 7 cm? (π = 22/7)",
+      "marks": 1,
+      "options": {
+        "A": "308 cm²",
+        "B": "462 cm²",
+        "C": "616 cm²",
+        "D": "154 cm²"
+      }
+    },
+    {
+      "id": "q18",
+      "category": "Heron's Formula and Mensuration",
+      "text": "The volume of a right circular cylinder of height 14 cm is 1232 cm³. Find its radius. (π = 22/7)",
+      "marks": 1,
+      "options": {
+        "A": "5.29 cm",
+        "B": "14 cm",
+        "C": "7 cm",
+        "D": "28 cm"
+      }
+    },
+    {
+      "id": "q19",
+      "category": "Statistics",
+      "text": "If the mean of observations x, x + 2, x + 4, x + 6, and x + 8 is 11, find the value of x.",
+      "marks": 1,
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      }
+    },
+    {
+      "id": "q20",
+      "category": "Statistics",
+      "text": "What is the median of the data set: 15, 14, 21, 9, 31, 18, 25, 20, 13?",
+      "marks": 1,
+      "options": {
+        "A": "15",
+        "B": "18",
+        "C": "20",
+        "D": "21"
+      }
+    }
+  ]
 }

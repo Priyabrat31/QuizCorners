@@ -1,13 +1,260 @@
 {
   "quizId": "creator-06",
   "creatorId": "creator-06",
-  "title": "Quiz for Creator 06",
-  "description": "Quiz content will be added here.",
+  "title": "Class 8 Mathematics: Ratio and Proportion",
+  "description": "A 20-question practice quiz on simplifying ratios, equivalent ratios, proportion, unitary method, direct proportion and inverse proportion, prepared for Sonali Dalei.",
   "durationMinutes": 20,
-  "totalQuestions": 0,
-  "totalMarks": 0,
-  "isPublished": false,
+  "totalQuestions": 20,
+  "totalMarks": 20,
+  "isPublished": true,
   "answerKeyFile": "data/answer-keys/creator-06.json",
-  "instructions": [],
-  "questions": []
+  "instructions": [
+    "This quiz contains 20 multiple-choice questions.",
+    "Each question carries 1 mark.",
+    "There is no negative marking.",
+    "The timer is set to 20 minutes and starts when you begin the quiz.",
+    "Your result will be calculated automatically after submission."
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "category": "Simplifying Ratios",
+      "text": "What is the simplest form of the ratio 18:24?",
+      "marks": 1,
+      "options": {
+        "A": "2:3",
+        "B": "3:4",
+        "C": "4:5",
+        "D": "6:8"
+      }
+    },
+    {
+      "id": "q2",
+      "category": "Ratios",
+      "text": "Two numbers are in the ratio 4:7 and their sum is 55. What is the smaller number?",
+      "marks": 1,
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "35"
+      }
+    },
+    {
+      "id": "q3",
+      "category": "Unitary Method",
+      "text": "If 5 notebooks cost ₹150, what is the cost of 8 notebooks at the same rate?",
+      "marks": 1,
+      "options": {
+        "A": "₹180",
+        "B": "₹200",
+        "C": "₹240",
+        "D": "₹250"
+      }
+    },
+    {
+      "id": "q4",
+      "category": "Equivalent Ratios",
+      "text": "Which ratio is equivalent to 6:9?",
+      "marks": 1,
+      "options": {
+        "A": "3:10",
+        "B": "5:6",
+        "C": "6:10",
+        "D": "2:3"
+      }
+    },
+    {
+      "id": "q5",
+      "category": "Dividing a Quantity in a Given Ratio",
+      "text": "Divide 96 in the ratio 5:7. What are the two parts?",
+      "marks": 1,
+      "options": {
+        "A": "30 and 66",
+        "B": "35 and 61",
+        "C": "40 and 56",
+        "D": "45 and 51"
+      }
+    },
+    {
+      "id": "q6",
+      "category": "Proportion",
+      "text": "If x:21 = 2:3, what is the value of x?",
+      "marks": 1,
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "16",
+        "D": "18"
+      }
+    },
+    {
+      "id": "q7",
+      "category": "Finding a Missing Term",
+      "text": "If 2:5 = 10:x, what is the value of x?",
+      "marks": 1,
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "50"
+      }
+    },
+    {
+      "id": "q8",
+      "category": "Inverse Proportion",
+      "text": "Eight workers complete a job in 15 days. How many days will 12 workers take at the same rate?",
+      "marks": 1,
+      "options": {
+        "A": "8 days",
+        "B": "10 days",
+        "C": "12 days",
+        "D": "20 days"
+      }
+    },
+    {
+      "id": "q9",
+      "category": "Scale and Map",
+      "text": "On a map, 1 cm represents 1 km. What actual distance is represented by 3 cm?",
+      "marks": 1,
+      "options": {
+        "A": "1 km",
+        "B": "2 km",
+        "C": "3 km",
+        "D": "5 km"
+      }
+    },
+    {
+      "id": "q10",
+      "category": "Direct Proportion",
+      "text": "If 2.5 kg of apples cost ₹200, what is the cost of 4 kg at the same rate?",
+      "marks": 1,
+      "options": {
+        "A": "₹280",
+        "B": "₹300",
+        "C": "₹320",
+        "D": "₹400"
+      }
+    },
+    {
+      "id": "q11",
+      "category": "Ratios in Different Units",
+      "text": "What is the ratio of 45 minutes to 2 hours in simplest form?",
+      "marks": 1,
+      "options": {
+        "A": "3:8",
+        "B": "8:3",
+        "C": "1:2",
+        "D": "2:3"
+      }
+    },
+    {
+      "id": "q12",
+      "category": "Fourth Proportional",
+      "text": "Find the fourth proportional to 3, 5 and 7.",
+      "marks": 1,
+      "options": {
+        "A": "21/5",
+        "B": "35/3",
+        "C": "15/7",
+        "D": "7/15"
+      }
+    },
+    {
+      "id": "q13",
+      "category": "Mean Proportional",
+      "text": "What is the mean proportional between 9 and 25?",
+      "marks": 1,
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "15",
+        "D": "17"
+      }
+    },
+    {
+      "id": "q14",
+      "category": "Equivalent Ratios",
+      "text": "If 5:8 = 15:x, what is the value of x?",
+      "marks": 1,
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "24",
+        "D": "30"
+      }
+    },
+    {
+      "id": "q15",
+      "category": "Direct Proportion",
+      "text": "Which pair of quantities is generally in direct proportion when the rate per item is fixed?",
+      "marks": 1,
+      "options": {
+        "A": "Number of items and total cost",
+        "B": "Speed and time for a fixed distance",
+        "C": "Number of workers and days for a fixed job",
+        "D": "Side length and perimeter of a fixed square"
+      }
+    },
+    {
+      "id": "q16",
+      "category": "Inverse Proportion",
+      "text": "For a fixed distance, if speed increases, what happens to the time taken?",
+      "marks": 1,
+      "options": {
+        "A": "It increases in the same ratio",
+        "B": "It decreases",
+        "C": "It remains unchanged",
+        "D": "It becomes zero"
+      }
+    },
+    {
+      "id": "q17",
+      "category": "Using a Ratio",
+      "text": "The ratio of boys to girls in a group is 4:7. If there are 56 girls, how many boys are there?",
+      "marks": 1,
+      "options": {
+        "A": "24",
+        "B": "28",
+        "C": "32",
+        "D": "40"
+      }
+    },
+    {
+      "id": "q18",
+      "category": "Ratios in Mixtures",
+      "text": "Milk and water are mixed in the ratio 5:2. If there are 14 litres of water, how much milk is present?",
+      "marks": 1,
+      "options": {
+        "A": "21 litres",
+        "B": "28 litres",
+        "C": "35 litres",
+        "D": "42 litres"
+      }
+    },
+    {
+      "id": "q19",
+      "category": "Inverse Proportion",
+      "text": "Twelve workers finish a job in 20 days. How many days will 15 workers take at the same rate?",
+      "marks": 1,
+      "options": {
+        "A": "12 days",
+        "B": "15 days",
+        "C": "16 days",
+        "D": "18 days"
+      }
+    },
+    {
+      "id": "q20",
+      "category": "Compound Direct Proportion",
+      "text": "Three machines make 180 parts in 4 hours. How many parts will 5 identical machines make in 6 hours?",
+      "marks": 1,
+      "options": {
+        "A": "300",
+        "B": "360",
+        "C": "400",
+        "D": "450"
+      }
+    }
+  ]
 }
