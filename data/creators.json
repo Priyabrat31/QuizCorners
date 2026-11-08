@@ -23,11 +23,11 @@
     {
       "id": "creator-03",
       "name": "Umesh Kumar Behera",
-      "subject": "Subject to be added",
-      "topic": "Quiz topic to be added",
-      "introduction": "Creator profile. Quiz content can be added when it is ready.",
+      "subject": "Mathematics",
+      "topic": "Class 8 Mathematics",
+      "introduction": "Practice Class 8 Mathematics through a 20-question multiple-choice quiz prepared by Umesh Kumar Behera.",
       "quizFile": "data/quizzes/creator-03.json",
-      "quizEnabled": false,
+      "quizEnabled": true,
       "image": "assets/images/creators/creator-03.jpg"
     },
     {
